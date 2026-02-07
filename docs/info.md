@@ -16,4 +16,5 @@ Clock devider as simple counter.
 Give it a clock and see if the outputs are binary numbers counting up.
 
 ## External hardware
+
 Output LEDs.
